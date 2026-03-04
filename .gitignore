@@ -1,0 +1,41 @@
+# ---------------------------------------------------
+# GENESIS HIVE MIND - .gitignore
+# ---------------------------------------------------
+
+# 1. Genesis User Data & Memory (CRITICAL PRIVACY)
+memory/chromadb_data/
+memory/chat_sessions.json
+
+# 2. Python Environments & Caches
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# 3. macOS & OS Artifacts
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# 4. Agent Execution Artifacts (Sandbox outputs)
+*.log
+*.pcap
+mac_log.txt
+mac_script.py
+nmap_output.txt
+
+# 5. IDEs & Streamlit Secrets
+.vscode/
+.idea/
+.streamlit/secrets.toml
+
+# 6. Legacy PyTorch / Machine Learning Artifacts
+checkpoints/
+checkpoints_backup_*/
+training_data/
+*.pt
+*.pth

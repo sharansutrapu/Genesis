@@ -1,0 +1,24 @@
+# 🧬 Project Genesis v2 — Hive Mind Dependencies
+# Install: pip install -r requirements.txt
+
+# Ollama Python Client (local LLM orchestration)
+ollama>=0.4.0
+
+# Vector Database (Shared Knowledge Base / Strategy DB)
+chromadb>=0.5.0
+
+# Web Search (internet-grounded answers)
+ddgs>=7.0.0
+
+# HTTP utilities
+requests>=2.31.0
+
+# HTML parsing (deep scraping + markdown conversion)
+beautifulsoup4>=4.12.0
+markdownify>=0.11.0
+
+# Beautiful terminal output
+rich>=13.0.0
+
+# Web UI
+streamlit>=1.30.0
