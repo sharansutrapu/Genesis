@@ -230,7 +230,7 @@ Cloud Infrastructure & DevOps Engineer with a passion for AI-augmented automatio
 | 💼 LinkedIn | [Sharan Kumar Reddy Sutrapu](https://www.linkedin.com/in/sharan-kumar-reddy-sutrapu-34b50519b/) |
 | 💻 GitHub | [@sharansutrapu](https://github.com/sharansutrapu) |
 | 📝 Medium | [@sharansutrapu](https://medium.com/@sharansutrapu) |
-| 📸 Instagram | [@sharansutrapu](https://www.instagram.com/sharansutrapu/) |
+| 📸 Instagram | [@sharan_sutrapu](https://www.instagram.com/sharan_sutrapu/) |
 | 📘 Facebook | [sutrapusharan](https://www.facebook.com/sutrapusharan) |
 
 ---
