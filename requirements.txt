@@ -22,3 +22,9 @@ rich>=13.0.0
 
 # Web UI
 streamlit>=1.30.0
+
+# PDF Parsing (RAG document upload)
+PyPDF2>=3.0.0
+
+# System Monitoring (hardware telemetry)
+psutil>=5.9.0
