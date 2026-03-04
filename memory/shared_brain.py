@@ -4,7 +4,7 @@ Author: Sharan Kumar Reddy Sutrapu
 Website: https://sharansutrapu.com/
 LinkedIn: https://www.linkedin.com/in/sharan-kumar-reddy-sutrapu-34b50519b/
 GitHub: https://github.com/sharansutrapu
-Medium: https://medium.com/@sutrapusharan
+Medium: https://medium.com/@sharansutrapu
 
 🧠 GENESIS SHARED BRAIN — The Collective Memory
 Local ChromaDB vector store for reasoning strategies.

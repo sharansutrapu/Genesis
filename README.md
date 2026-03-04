@@ -10,7 +10,7 @@
     <a href="https://sharansutrapu.com/">🌐 Website</a> •
     <a href="https://www.linkedin.com/in/sharan-kumar-reddy-sutrapu-34b50519b/">💼 LinkedIn</a> •
     <a href="https://github.com/sharansutrapu">💻 GitHub</a> •
-    <a href="https://medium.com/@sutrapusharan">📝 Medium</a>
+    <a href="https://medium.com/@sharansutrapu">📝 Medium</a>
   </p>
 </p>
 
@@ -229,9 +229,9 @@ Cloud Infrastructure & DevOps Engineer with a passion for AI-augmented automatio
 | 🌐 Website | [sharansutrapu.com](https://sharansutrapu.com/) |
 | 💼 LinkedIn | [Sharan Kumar Reddy Sutrapu](https://www.linkedin.com/in/sharan-kumar-reddy-sutrapu-34b50519b/) |
 | 💻 GitHub | [@sharansutrapu](https://github.com/sharansutrapu) |
-| 📝 Medium | [@sutrapusharan](https://medium.com/@sutrapusharan) |
+| 📝 Medium | [@sharansutrapu](https://medium.com/@sharansutrapu) |
 | 📸 Instagram | [@sharansutrapu](https://www.instagram.com/sharansutrapu/) |
-| 📘 Facebook | [Sharan Kumar Reddy Sutrapu](https://www.facebook.com/sharansutrapu) |
+| 📘 Facebook | [Sharan Kumar Reddy Sutrapu](https://www.facebook.com/sutrapusharan) |
 
 ---
 
